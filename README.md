@@ -1,7 +1,7 @@
 # Olá, eu sou Bianca Andrade
 
 ### 💻 Estudante de Engenharia de Computação
-Estou atualmente no 4º ano de Engenharia de Computação na PUC-Campinas, onde participei de diversos projetos de implementação. Apaixonada por tecnologia, estou sempre buscando aprender e crescer na área de desenvolvimento e engenharia de software.
+Estou atualmente no 5º ano de Engenharia de Computação na PUC-Campinas, onde participei de diversos projetos de implementação. Apaixonada por tecnologia, estou sempre buscando aprender e crescer na área de desenvolvimento e engenharia de software.
 
 ### Conecte-se comigo:
 
